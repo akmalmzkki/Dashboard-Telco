@@ -7,7 +7,7 @@
 
 ## Run Streamlit App
 ```
-streamlit run Dashboard.py
+streamlit run main.py
 ```
 
 ## Dashboard Link
