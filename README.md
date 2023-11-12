@@ -12,5 +12,5 @@ streamlit run Dashboard.py
 
 ## Dashboard Link
 ```
-https://dashboard-telco-barudak-bojongsoang.streamlit.app/
+https://barudak-bojongsoang-dashboard.streamlit.app/
 ```
