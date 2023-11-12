@@ -5,5 +5,4 @@ seaborn
 numpy
 pandas
 openpyxl
-pickle
 lightgbm
