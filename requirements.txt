@@ -7,3 +7,5 @@ pandas
 openpyxl
 lightgbm
 streamlit
+xgboost
+catboost
